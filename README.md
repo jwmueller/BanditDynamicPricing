@@ -1,6 +1,6 @@
 This is a Python implementation of the methodology described in the paper:
 
-[**Low-Rank Bandit Methods for High-Dimensional Dynamic Pricing**](https://arxiv.org/abs/1801.10242)
+[**Low-Rank Bandit Methods for High-Dimensional Dynamic Pricing**](https://arxiv.org/abs/1801.10242)   
 Jonas Mueller, Vasilis Syrgkanis, Matt Taddy.  *NeurIPS* (2019)
 
 
